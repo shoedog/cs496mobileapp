@@ -1,0 +1,13 @@
+<ion-list>
+    <div *ngIf="needAuth">
+        <ion-list-header>
+            Register or Login
+        </ion-list-header>
+        <a ion-item (click)="openLogin()">
+            Login
+        </a>
+        <a ion-item (click)="openRegister()">
+            Register
+        </a>
+    </div>
+</ion-list>

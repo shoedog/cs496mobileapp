@@ -1,0 +1,7 @@
+{
+  "globalDevDependencies": {
+    "karma": "registry:dt/karma#0.13.9+20160811111312",
+    "karma-coverage": "registry:dt/karma-coverage#0.5.3+20160316155526",
+    "karma-jasmine": "registry:dt/karma-jasmine#0.0.0+20160316155526"
+  }
+}
