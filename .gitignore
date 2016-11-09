@@ -29,7 +29,7 @@ plugins/ios.json
 www/
 $RECYCLE.BIN/
 e2e/
-
+typings/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
